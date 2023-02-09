@@ -40,7 +40,6 @@ module.exports = {
             descriptionMarkdownEn: {
                 type: Sequelize.TEXT
             },
-
             nameJp: {
               type: Sequelize.STRING
             },
@@ -53,7 +52,6 @@ module.exports = {
             descriptionMarkdownJp: {
                 type: Sequelize.TEXT
             },
-
             createdAt: {
                 allowNull: false,
                 type: Sequelize.DATE
